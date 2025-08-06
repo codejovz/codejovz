@@ -49,7 +49,7 @@ A Cross-Platform Applications dev
 
 
 ## 🔗Find me on:
-[![CodePen](https://img.shields.io/badge/Codepen-@jotaaloud-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jotaaloud)
+[![CodePen](https://img.shields.io/badge/Codepen-@jotaaloud-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/codejovz)
 
 [![Gmail](https://img.shields.io/badge/GMAIL-jotaaloud%40gmail.com-%23FFFFFF?style=for-the-badge&logo=Gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23EA4335&link=mailto%3Ajotaaloud%40gmail.com)](mailto:jotaaloud@gmail.com)
 
