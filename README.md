@@ -39,6 +39,7 @@ A Cross-Platform Applications dev
     <summary>🧠Learning and interested on:<hr/></summary>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ![Artificial Intelligence](https://img.shields.io/badge/%F0%9F%A4%96-Artificial%20Intelligence-4c2271?style=for-the-badge&labelColor=lightgrey)
 
