@@ -21,20 +21,23 @@ I focus on balancing effort between the client and the server as needed.
 ![Visual Basic](https://img.shields.io/badge/VB-Visual_Basic-325a99?style=for-the-badge&logoColor=white&labelColor=1c3969)
 
 
-## 💻 IDEs/Editors:
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-1a82de?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Java WindowBuilder](https://img.shields.io/badge/Java%20WindowBuilder-%23FFFFFF?style=flat&logo=Java&labelColor=%232C2255&color=%232C2255)
-
-
 ## 📚 Libraries & Frameworks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Java](https://img.shields.io/badge/Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+
+## 💻 IDEs/Editors:
+
+![Google Antigravity](https://badges-codejovz.vercel.app/antigravity-logo.svg)
+![OpenAI Codex](https://badges-codejovz.vercel.app/OpenAI-Codex.svg)
+![Android Studio](https://img.shields.io/badge/android%20studio-1a82de?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 ## CRMs: 
