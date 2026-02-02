@@ -34,10 +34,10 @@ I focus on balancing effort between the client and the server as needed.
 ![Google Antigravity](https://badges-codejovz.vercel.app/antigravity-logo.svg)
 ![OpenAI Codex](https://badges-codejovz.vercel.app/OpenAI-Codex.svg)
 ![Android Studio](https://img.shields.io/badge/android%20studio-1a82de?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white&style=for-the-badge)
 
 
 ## CRMs: 
@@ -59,8 +59,11 @@ I focus on balancing effort between the client and the server as needed.
 
 
 ## 🔗 Find me on:
-[![CodePen](https://img.shields.io/badge/Codepen-@codejovz-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/codejovz)
+
+[![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-@codejovz-000000?&logo=codepen-black&logoColor=white&style=for-the-badge&labelColor=000000)](https://codepen.io/codejovz)
 
 [![Gmail](https://img.shields.io/badge/GMAIL-jotaaloud%40gmail.com-%23FFFFFF?style=for-the-badge&logo=Gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23EA4335&link=mailto%3Ajotaaloud%40gmail.com)](mailto:jotaaloud@gmail.com)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/jorge-varela-zamora/)
 
 #### You can hype me up by clicking "☆ Star" at my repos or following me here ¡Thanks!
